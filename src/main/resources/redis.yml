@@ -1,0 +1,12 @@
+---
+!redis
+host : 127.0.0.1
+port : 6379
+timeout : 5000
+weight : 1
+---
+!redis
+host : 127.0.0.1
+port : 6379
+timeout : 5000
+weight : 1
